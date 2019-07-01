@@ -1,2 +1,0 @@
-FROM jenkins/jenkins
-MAINTAINER 17326068955@163.com
