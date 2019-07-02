@@ -1,0 +1,2 @@
+FROM jenkins/jnlp-slave
+MAINTAINER 17326068955@163.com
