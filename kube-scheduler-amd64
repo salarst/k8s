@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler:v1.20.0
+FROM k8s.gcr.io/kube-scheduler:v1.24.3
 MAINTAINER 17326068655@163.com
